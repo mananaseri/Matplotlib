@@ -1,4 +1,4 @@
-Cancer research analysis 
+# Cancer research analysis
 
 In this Cancer research, 249 mice over a period of 45 days were being tested on and we observed the advantage of different drug regimens and their effectiveness in reducing tomur sizes in mice. 
 In the analysis, data cleaning, statistical summaries, visualizations, and linear regression method were used to compare the performance of Capomulin drug regimens against other treatment regimens. 
